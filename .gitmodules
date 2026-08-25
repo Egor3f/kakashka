@@ -1,0 +1,6 @@
+[submodule "shitty"]
+	path = shitty
+	url = https://github.com/pg83/shitty
+[submodule "konsole"]
+	path = konsole
+	url = https://github.com/KDE/konsole
